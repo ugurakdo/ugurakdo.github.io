@@ -244,9 +244,6 @@
                 href="http://localhost:1313/tags/%C3%A9chantillon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogs/markdown-syntax-old/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/muestra/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
     <xhtml:link
@@ -260,20 +257,11 @@
                 href="http://localhost:1313/tags/muestra/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/es/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/emoji-support-old/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
@@ -326,6 +314,9 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/placeholder-text/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sample/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blogs/placeholder-text/</loc>
@@ -391,11 +382,5 @@
                 hreflang="en"
                 href="http://localhost:1313/tags/contenu-enrichi/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blogs/rich-content-old/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url>
 </urlset>
