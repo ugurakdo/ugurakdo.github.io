@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ugur&#39;s Profile</title>
+    <link>https://ugurakdo.github.io/blogs/</link>
+    <description>Recent content in Blogs on Ugur&#39;s Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ugurakdo.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethics and Communication for Data Science and AI</title>
+      <link>https://ugurakdo.github.io/blogs/ethics-and-communication-for-data-science-and-ai/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ugurakdo.github.io/blogs/ethics-and-communication-for-data-science-and-ai/</guid>
+      <description>&lt;p&gt;Ethics and Communication for Data Science and AI&lt;/p&gt;&#xA;&lt;p&gt;Five Ways Companies Fake Being Ethical with AI&#xA;And why we should care&#xA;I&amp;rsquo;ve been thinking a lot about AI ethics lately. Not because it&amp;rsquo;s just a school topic, but because it actually matters in real life.&#xA;Before I started this program, I thought ethics in tech was pretty simple. Don&amp;rsquo;t steal data. Don&amp;rsquo;t build creepy stuff. Be honest. Easy, right?&#xA;Turns out, it&amp;rsquo;s not that simple.&#xA;Companies love to talk about how ethical their AI is. But sometimes, that talk is just talk. Sometimes it&amp;rsquo;s worse - it&amp;rsquo;s a way to look good while doing the same old things.&#xA;Let me walk you through what I learned about the sneaky ways companies avoid real ethics.&#xA;First, What Should Ethical AI Look Like?&#xA;Five main ideas should guide ethical AI:&#xA;Do good. AI should help people and make things better.&#xA;Don&amp;rsquo;t harm. AI should protect privacy and not cause damage.&#xA;Keep humans in control. People should decide what AI does, not the other way around.&#xA;Be fair. AI should treat everyone equally and not discriminate.&#xA;Be explainable. We should understand why AI makes the choices it does.&#xA;These all sound good, right? The problem is that many companies talk about them but don&amp;rsquo;t actually follow through.&#xA;The Five Sneaky Ways Companies Avoid Real Ethics&#xA;Here are the five behaviours I learned about in class. Think of them as tricks companies use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethics Blog</title>
+      <link>https://ugurakdo.github.io/blogs/ethics-blog/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ugurakdo.github.io/blogs/ethics-blog/</guid>
+      <description>&lt;p&gt;Ethics and Communication for Data Science and AI&lt;/p&gt;&#xA;&lt;p&gt;The Anonymous Survey That Wasn&amp;rsquo;t:&lt;/p&gt;&#xA;&lt;p&gt;A simple student survey and the ethical problems hiding inside&lt;/p&gt;&#xA;&lt;p&gt;I remember filling out course evaluations as a student. You get a link, you write your thoughts, and you assume nobody will connect your feedback back to you. That&amp;rsquo;s the point of anonymity, right?&lt;/p&gt;&#xA;&lt;p&gt;So when I saw this assignment about a survey that promised anonymity but had design problems, it got me thinking. As someone studying data analysis now, and as someone who has run businesses, I realize these ethical questions are real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

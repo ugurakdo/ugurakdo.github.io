@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ugur&#39;s Profile</title>
+    <link>https://ugurakdo.github.io/</link>
+    <description>Recent content on Ugur&#39;s Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ugurakdo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethics and Communication for Data Science and AI</title>
+      <link>https://ugurakdo.github.io/blogs/ethics-and-communication-for-data-science-and-ai/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ugurakdo.github.io/blogs/ethics-and-communication-for-data-science-and-ai/</guid>
+      <description>&lt;p&gt;Ethics and Communication for Data Science and AI&lt;/p&gt;&#xA;&lt;p&gt;Five Ways Companies Fake Being Ethical with AI&#xA;And why we should care&#xA;I&amp;rsquo;ve been thinking a lot about AI ethics lately. Not because it&amp;rsquo;s just a school topic, but because it actually matters in real life.&#xA;Before I started this program, I thought ethics in tech was pretty simple. Don&amp;rsquo;t steal data. Don&amp;rsquo;t build creepy stuff. Be honest. Easy, right?&#xA;Turns out, it&amp;rsquo;s not that simple.&#xA;Companies love to talk about how ethical their AI is. But sometimes, that talk is just talk. Sometimes it&amp;rsquo;s worse - it&amp;rsquo;s a way to look good while doing the same old things.&#xA;Let me walk you through what I learned about the sneaky ways companies avoid real ethics.&#xA;First, What Should Ethical AI Look Like?&#xA;Five main ideas should guide ethical AI:&#xA;Do good. AI should help people and make things better.&#xA;Don&amp;rsquo;t harm. AI should protect privacy and not cause damage.&#xA;Keep humans in control. People should decide what AI does, not the other way around.&#xA;Be fair. AI should treat everyone equally and not discriminate.&#xA;Be explainable. We should understand why AI makes the choices it does.&#xA;These all sound good, right? The problem is that many companies talk about them but don&amp;rsquo;t actually follow through.&#xA;The Five Sneaky Ways Companies Avoid Real Ethics&#xA;Here are the five behaviours I learned about in class. Think of them as tricks companies use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ethics Blog</title>
+      <link>https://ugurakdo.github.io/blogs/ethics-blog/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ugurakdo.github.io/blogs/ethics-blog/</guid>
+      <description>&lt;p&gt;Ethics and Communication for Data Science and AI&lt;/p&gt;&#xA;&lt;p&gt;The Anonymous Survey That Wasn&amp;rsquo;t:&lt;/p&gt;&#xA;&lt;p&gt;A simple student survey and the ethical problems hiding inside&lt;/p&gt;&#xA;&lt;p&gt;I remember filling out course evaluations as a student. You get a link, you write your thoughts, and you assume nobody will connect your feedback back to you. That&amp;rsquo;s the point of anonymity, right?&lt;/p&gt;&#xA;&lt;p&gt;So when I saw this assignment about a survey that promised anonymity but had design problems, it got me thinking. As someone studying data analysis now, and as someone who has run businesses, I realize these ethical questions are real.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Renderizar Matemáticas con Mathjax</title>
+      <link>https://ugurakdo.github.io/es/blogs/math/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/es/blogs/math/</guid>
+      <description>&lt;h2 id=&#34;mathjax&#34;&gt;Mathjax&lt;/h2&gt;&#xA;&lt;p&gt;Las ecuaciones matemáticas se pueden renderizar usando la sintaxis de &lt;a href=&#34;https://www.mathjax.org&#34;&gt;Mathjax&lt;/a&gt; con soporte de símbolos AMS.&lt;/p&gt;&#xA;&lt;p&gt;Opcionalmente, habilita esto por página agregando &lt;code&gt;mathjax: true&lt;/code&gt; a tu frontmatter.&lt;/p&gt;&#xA;&lt;p&gt;Luego, usa &lt;code&gt;$$ ... $$&lt;/code&gt; en una línea por sí sola para renderizar una ecuación de bloque:&lt;/p&gt;&#xA;&lt;p&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&lt;/p&gt;&#xA;&lt;p&gt;La versión sin procesar es:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Escribe ecuaciones en línea con &lt;code&gt;\\( ... \\)&lt;/code&gt; , como \( x^n / y \) . ¡Es fácil!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rendre les Mathématiques avec Mathjax</title>
+      <link>https://ugurakdo.github.io/fr/blogs/math/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/fr/blogs/math/</guid>
+      <description>&lt;h2 id=&#34;mathjax&#34;&gt;Mathjax&lt;/h2&gt;&#xA;&lt;p&gt;Les équations mathématiques peuvent être rendues en utilisant la syntaxe &lt;a href=&#34;https://www.mathjax.org&#34;&gt;Mathjax&lt;/a&gt; avec le support des symboles AMS.&lt;/p&gt;&#xA;&lt;p&gt;Activez ceci de manière optionnelle page par page en ajoutant &lt;code&gt;mathjax: true&lt;/code&gt; à votre frontmatter.&lt;/p&gt;&#xA;&lt;p&gt;Ensuite, utilisez &lt;code&gt;$$ ... $$&lt;/code&gt; sur une ligne par elle-même pour rendre une équation de bloc:&lt;/p&gt;&#xA;&lt;p&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&lt;/p&gt;&#xA;&lt;p&gt;La version brute est:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Galería de Imágenes</title>
+      <link>https://ugurakdo.github.io/es/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/es/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galerie d&#39;Images</title>
+      <link>https://ugurakdo.github.io/fr/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/fr/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Gallery</title>
+      <link>https://ugurakdo.github.io/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sintaxis de Markdown</title>
+      <link>https://ugurakdo.github.io/es/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/es/blogs/markdown-syntax/</guid>
+      <description>&lt;h2 id=&#34;párrafo&#34;&gt;Párrafo&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Syntaxe Markdown</title>
+      <link>https://ugurakdo.github.io/fr/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/fr/blogs/markdown-syntax/</guid>
+      <description>&lt;h2 id=&#34;paragraphe&#34;&gt;Paragraphe&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Soporte de Emoji</title>
+      <link>https://ugurakdo.github.io/es/blogs/emoji-support/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/es/blogs/emoji-support/</guid>
+      <description>&lt;p&gt;Los emoji se pueden habilitar en un proyecto Hugo de varias maneras. :zap:&lt;/p&gt;&#xA;&lt;h2 id=&#34;soporte-de-emoji&#34;&gt;Soporte de Emoji&lt;/h2&gt;&#xA;&lt;p&gt;La función &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;emojify&lt;/a&gt; se puede llamar directamente en las plantillas o &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Shortcodes en línea&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Para habilitar emoji globalmente, establece &lt;code&gt;enableEmoji&lt;/code&gt; en &lt;code&gt;true&lt;/code&gt; en la &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuración&lt;/a&gt; de tu sitio y luego puedes escribir códigos abreviados de emoji directamente en los archivos de contenido; por ejemplo:&lt;/p&gt;&#xA;&lt;p&gt;La &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Hoja de trucos de Emoji&lt;/a&gt; es una referencia útil para los códigos abreviados de emoji.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Support des Emoji</title>
+      <link>https://ugurakdo.github.io/fr/blogs/emoji-support/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/fr/blogs/emoji-support/</guid>
+      <description>&lt;p&gt;Les emoji peuvent être activés dans un projet Hugo de plusieurs façons. :zap:&lt;/p&gt;&#xA;&lt;h2 id=&#34;support-des-emoji&#34;&gt;Support des Emoji&lt;/h2&gt;&#xA;&lt;p&gt;La fonction &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;emojify&lt;/a&gt; peut être appelée directement dans les modèles ou les &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Shortcodes en ligne&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Pour activer les emoji globalement, définissez &lt;code&gt;enableEmoji&lt;/code&gt; sur &lt;code&gt;true&lt;/code&gt; dans la &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; de votre site, puis vous pouvez taper les codes abrégés d&amp;rsquo;emoji directement dans les fichiers de contenu; par exemple :&lt;/p&gt;&#xA;&lt;p&gt;La &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Feuille de triche Emoji&lt;/a&gt; est une référence utile pour les codes abrégés d&amp;rsquo;emoji.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Texte de Remplissage</title>
+      <link>https://ugurakdo.github.io/fr/blogs/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/fr/blogs/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Texto de Relleno</title>
+      <link>https://ugurakdo.github.io/es/blogs/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/es/blogs/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contenido Enriquecido</title>
+      <link>https://ugurakdo.github.io/es/blogs/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/es/blogs/rich-content/</guid>
+      <description>&lt;p&gt;Hugo viene con varios &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Shortcodes Integrados&lt;/a&gt; para contenido enriquecido, junto con una &lt;a href=&#34;https://gohugo.io/about/privacy/#configuration&#34;&gt;Configuración de Privacidad&lt;/a&gt; y un conjunto de Shortcodes Simples que habilitan versiones estáticas y sin JS de varias incrustaciones de redes sociales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;shortcode-simple-de-x&#34;&gt;Shortcode Simple de X&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; tweet user=&amp;#34;GoHugoIO&amp;#34; id=&amp;#34;1315233626070503424&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;!-- Temporarily removed for build --&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;shortcode-simple-de-vimeo&#34;&gt;Shortcode Simple de Vimeo&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&#xA;      &lt;div&#xA;          style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;        &lt;iframe&#xA;          src=&#34;https://player.vimeo.com/video/146022717?dnt=0&#34;&#xA;            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;&#xA;        &lt;/iframe&gt;&#xA;      &lt;/div&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;shortcode-gist&#34;&gt;Shortcode gist&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; gist spf13 7896402 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;script src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Contenu Enrichi</title>
+      <link>https://ugurakdo.github.io/fr/blogs/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>https://ugurakdo.github.io/fr/blogs/rich-content/</guid>
+      <description>&lt;p&gt;Hugo est livré avec plusieurs &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Shortcodes Intégrés&lt;/a&gt; pour le contenu enrichi, ainsi qu&amp;rsquo;une &lt;a href=&#34;https://gohugo.io/about/privacy/#configuration&#34;&gt;Configuration de Confidentialité&lt;/a&gt; et un ensemble de Shortcodes Simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;&#xA;&lt;h2 id=&#34;shortcode-simple-x&#34;&gt;Shortcode Simple X&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; tweet user=&amp;#34;GoHugoIO&amp;#34; id=&amp;#34;1315233626070503424&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;!-- Temporarily removed for build --&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;shortcode-simple-vimeo&#34;&gt;Shortcode Simple Vimeo&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&#xA;      &lt;div&#xA;          style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;        &lt;iframe&#xA;          src=&#34;https://player.vimeo.com/video/146022717?dnt=0&#34;&#xA;            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;&#xA;        &lt;/iframe&gt;&#xA;      &lt;/div&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;shortcode-gist&#34;&gt;Shortcode gist&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; gist spf13 7896402 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;&#xD;&#xA;&lt;script src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;&#xA;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

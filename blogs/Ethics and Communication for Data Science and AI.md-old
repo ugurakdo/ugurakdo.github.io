@@ -1,0 +1,95 @@
+﻿---
+title: "Ethics and Communication for Data Science and AI"
+date: 2026-03-06
+draft: false
+tags: ["data analysis", "AI careers", "future of work", "data science", "AI ethics"]
+image: /images/ethics2.jpg
+categories: ["Career Insights"]
+---
+
+` `Ethics and Communication for Data Science and AI
+
+Five Ways Companies Fake Being Ethical with AI
+And why we should care
+I've been thinking a lot about AI ethics lately. Not because it's just a school topic, but because it actually matters in real life.
+Before I started this program, I thought ethics in tech was pretty simple. Don't steal data. Don't build creepy stuff. Be honest. Easy, right?
+Turns out, it's not that simple.
+Companies love to talk about how ethical their AI is. But sometimes, that talk is just talk. Sometimes it's worse - it's a way to look good while doing the same old things.
+Let me walk you through what I learned about the sneaky ways companies avoid real ethics.
+First, What Should Ethical AI Look Like?
+Five main ideas should guide ethical AI:
+Do good. AI should help people and make things better.
+Don't harm. AI should protect privacy and not cause damage.
+Keep humans in control. People should decide what AI does, not the other way around.
+Be fair. AI should treat everyone equally and not discriminate.
+Be explainable. We should understand why AI makes the choices it does.
+These all sound good, right? The problem is that many companies talk about them but don't actually follow through.
+The Five Sneaky Ways Companies Avoid Real Ethics
+Here are the five behaviours I learned about in class. Think of them as tricks companies use.
+1. Ethics Shopping
+This is when a company picks and chooses which ethical rules to follow. They only pick the ones that make them look good.
+Imagine a tech company that puts a beautiful "Ethics" page on its website. They talk about fairness and transparency. They mention all the right guidelines.
+But behind the scenes, they're still using biased data. Their systems treat some groups unfairly. When researchers try to check their work, they get ignored.
+The company has an ethics team, but that team has no real power. When they raise concerns about a profitable project, nobody listens.
+That's ethics shopping. Looking ethical without actually being ethical.
+2. Ethics Blue Washing
+This comes from the term "greenwashing" - when companies pretend to be environmentally friendly. Blue washing is the same thing, but for the digital world.
+A company announces they care about "human-centred AI." They sign pledges. They send people to ethics conferences. They publish shiny reports.
+But behind the scenes, they're selling surveillance tech to governments that might misuse it. Their facial recognition systems have known problems. Human rights groups raise concerns, and the company ignores them.
+The fancy reports and pledges are just for show. Nothing has really changed.
+3. Ethics Lobbying
+This one is tricky. A company promotes "ethical AI" as a way to avoid real laws.
+Here's how it works. A tech company starts a big program promoting AI ethics. They invite government people to their events. They fund university research on ethics. They suggest voluntary rules that companies can choose to follow.
+Sounds good, but behind closed doors, they're fighting any actual laws that would require them to be transparent or allow people to audit their systems. They're working to shape new laws in ways that protect their business.
+They're using "ethics" as a shield against regulation. Instead of real rules that citizens can enforce, we get voluntary guidelines that companies can ignore whenever they want.
+4. Ethics Dumping
+This one is really unfair. It's when companies test or use questionable AI in countries with weaker rules.
+A Western company builds a facial recognition system that causes concerns at home. Maybe it has racial bias. Maybe it invades privacy. Public pressure and laws make it hard to sell at home.
+So, they take it elsewhere.
+They sell or test the system in countries with weak privacy protections. They work with governments where oversight is minimal and local people can't push back. They use populations in poorer countries to train their AI models, without real consent or fair payment.
+Some people call this "data colonialism" - taking value from vulnerable people without giving anything back.
+5. Ethics Shirking
+This is when companies avoid responsibility by blaming others.
+A social media platform's algorithms keep spreading hate speech and false information. When people complain, the company says, "It's too complicated to monitor everything." Or "Users create the content, not us." Or "We're just the platform."
+They hire other companies to do content moderation, often with poor working conditions and no transparency. They make vague promises about "free expression" but do nothing real to fix the harm.
+They're shirking responsibility. They make money from the attention that outrage creates, but they don't want to be responsible for the damage it causes.
+A Real Example: Facial Recognition
+Let me give you a real example that shows all five behaviours.
+In 2018, a researcher named Joy Buolamwini did a study on facial recognition systems from major tech companies. She found something troubling.
+The systems had error rates of less than 1% for lighter-skinned men. But for darker-skinned women, the error rates were as high as 35%. That's not a small mistake. That's a huge failure.
+When researchers raised this issue, the companies' responses showed many of these behaviours:
+Ethical shopping? Some companies picked which studies to respond to and which to ignore.
+Blue washing? They published statements about their commitment to fairness while doing little to fix the actual problems.
+Lobbying? Some pushed for voluntary guidelines instead of laws that would require independent testing.
+Dumping? These systems continued to be sold in countries with less oversight.
+Shirking? Some suggested it was the users' responsibility to use the tech fairly, not theirs.
+Years later, problems still exist. This is why ethics can't just be a marketing thing. It has to be built into the technology from the start.
+Soft Ethics and Why It Matters
+So, what's the solution? Do we just wait for governments to pass laws?
+That's where "soft ethics" comes in. Soft ethics is about what companies should do beyond what the law requires.
+Laws are slow. They take time to pass. By the time a law is made, the technology has already moved forward. Soft ethics fills that gap - it's the voluntary actions companies take to be responsible, even when nobody is forcing them.
+But here's the catch. Soft ethics only works if companies are genuine about it. If they're using soft ethics as a substitute for real accountability, or doing ethics shopping or bluewashing, then it's worse than useless. It's deceptive.
+What we need is a mix:
+•	Hard ethics (laws and regulations) that set minimum standards
+•	Soft ethics that go beyond what the law requires
+•	Real governance that makes both of these work in practice
+What This Means for People Like Me
+As someone training to become a data analyst, these issues hit close to home. I might not be the CEO making big decisions. But I'll be the one building models and working with data.
+I need to ask questions:
+•	Where did this data come from? Was it collected properly?
+•	Who might be hurt by this analysis?
+•	Am I being asked to hide something?
+•	If something goes wrong, will anyone be able to understand what I built?
+And if I see problems, I need to speak up. Write down my concerns. Refuse to do things that cross ethical lines. And if a company keeps ignoring ethics, maybe think about whether I want to work there.
+Wrapping Up
+Here's what I've learned. Ethics in AI isn't something you achieve once and then forget about. It's something you have to keep working on. It requires constant questions, constant attention, and constant willingness to say "wait, let's think about this differently."
+The five behaviours, shopping, blue washing, lobbying, dumping, and shirking, are ways of avoiding that ongoing work. They're shortcuts. And like most shortcuts, they lead to bad places.
+The good news is, more people are paying attention now. Researchers are finding problems. Journalists are writing about them. Regulators are starting to act. And regular people are asking harder questions about the technology they use every day.
+We're not going to solve all these problems overnight. But if we keep asking hard questions and refuse to accept easy answers, we can build AI that actually deserves to be called ethical.
+That's the kind of data analyst I want to be.
+
+References
+Ahmed, M. M., Okesanya, O. J., Oweidat, M., Othman, Z. K., Musa, S. S., & Lucero-Prisno Iii, D. E. (2025). The ethics of data mining in healthcare: Challenges, frameworks, and future directions. BioData Mining, 18(1), 47.  
+Cheng, L., Han, J., & Nasirov, J. (2024). Ethical considerations related to personal data collection and reuse: Trust and transparency in language and speech technologies. International Journal of Legal Discourse, 9(2), 217-235.  
+Dhanda, S. S., Panwar, D., Lin, C.-C., Sharma, T. K., Rastogi, D., Bindewari, S., Singh, A., Li, Y.-H., Agarwal, N., & Agarwal, S. (2025). Advancement in public health through machine learning: A narrative review of opportunities and ethical considerations. Journal of Big Data, 12(1), 154.  
+Gadotti, A., Rocher, L., Houssiau, F., Creţu, A.-M., & De Montjoye, Y.-A. (2024). Anonymization: The imperfect science of using data while preserving privacy. Science Advances, 10(29), eadn7053."

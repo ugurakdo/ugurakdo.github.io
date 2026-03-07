@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample on Ugur&#39;s Profile</title>
+    <link>http://localhost:1313/tags/sample/</link>
+    <description>Recent content in Sample on Ugur&#39;s Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethics Blog</title>
+      <link>http://localhost:1313/blogs/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/placeholder-text/</guid>
+      <description>&lt;p&gt;Ethics and Communication for Data Science and AI&lt;/p&gt;&#xA;&lt;p&gt;The Anonymous Survey That Wasn&amp;rsquo;t&#xA;A simple student survey and the ethical problems hiding inside&lt;/p&gt;&#xA;&lt;p&gt;I remember filling out course evaluations as a student. You get a link, you write your thoughts, and you assume nobody will connect your feedback back to you. That&amp;rsquo;s the point of anonymity, right?&lt;/p&gt;&#xA;&lt;p&gt;So when I saw this assignment about a survey that promised anonymity but had design problems, it got me thinking. As someone studying data analysis now, and as someone who has run businesses, I realize these ethical questions are real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
